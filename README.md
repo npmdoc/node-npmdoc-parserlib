@@ -1,6 +1,7 @@
-# npmdoc-parserlib [![npm package](https://img.shields.io/npm/v/npmdoc-parserlib.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-parserlib) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-parserlib.svg)](https://travis-ci.org/npmdoc/node-npmdoc-parserlib)
+# npmdoc-parserlib
 
-api documentation for  [parserlib (v1.1.1)](https://github.com/CSSLint/parser-lib)
+#### basic api documentation for  [parserlib (v1.1.1)](https://github.com/CSSLint/parser-lib)  [![npm package](https://img.shields.io/npm/v/npmdoc-parserlib.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-parserlib) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-parserlib.svg)](https://travis-ci.org/npmdoc/node-npmdoc-parserlib)
+
 #### CSS3 SAX-inspired parser
 
 [![NPM](https://nodei.co/npm/parserlib.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/parserlib)
@@ -97,7 +98,8 @@ api documentation for  [parserlib (v1.1.1)](https://github.com/CSSLint/parser-li
         "test": "npm run lint && npm run test-yuitest",
         "test-yuitest": "ytestrunner"
     },
-    "version": "1.1.1"
+    "version": "1.1.1",
+    "bin": {}
 }
 ```
 
